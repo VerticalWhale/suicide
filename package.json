@@ -1,0 +1,18 @@
+{
+  "name": "suicide",
+  "version": "1.0.0",
+  "description": "(hangs self)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "VerticalWhale"
+  },
+  "author": "Ethan Fish McKinley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
